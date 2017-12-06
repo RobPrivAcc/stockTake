@@ -1,0 +1,57 @@
+<Div class="form-group">
+	<select id="aislesNo" class="selectpicker form-control">
+    <option>1A</option>
+<option>1B</option>
+<option>1C</option>
+<option>1D</option>
+<option>1E</option>
+<option>1F</option>
+<option>1G</option>
+<option>1H</option>
+<option>1I</option>
+<option>1J</option>
+<option>2A</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6A</option>
+<option>6B</option>
+<option>7A</option>
+<option>7B</option>
+<option>7C</option>
+<option>8</option>
+<option>9A</option>
+<option>9B</option>
+<option>9C</option>
+<option>10A</option>
+<option>10B</option>
+<option>10C</option>
+<option>11A</option>
+<option>11B</option>
+<option>11C</option>
+<option>12A</option>
+<option>12B</option>
+<option>12C</option>
+<option>13A</option>
+<option>13B</option>
+<option>13C</option>
+<option>14A</option>
+<option>14B</option>
+<option>14C</option>
+<option>14D</option>
+<option>14E</option>
+<option>14F</option>
+<option>14G</option>
+<option>14H</option>
+<option>14I</option>
+<option>14J</option>
+<option>15</option>
+<option>16</option>
+<option>17</option>
+<option>18</option>
+<option>19</option>
+<option>F</option>
+<option>Tag Box</option>
+
+</select>
+</div>
